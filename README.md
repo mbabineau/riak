@@ -118,3 +118,14 @@ Innostore is an Erlang wrapper around embedded InnoDB, a transactional storage e
 
 [1]: http://basho.com/
 [2]: http://www.innodb.com/doc/embedded_innodb-1.0/#config-vars
+
+
+Contributing
+=============
+
+1. Fork https://github.com/cookbooks/riak
+2. Checkout the `qa` branch
+3. Commit and test your changes
+4. Submit a pull request
+
+For more information on GitHub's pull request model, see http://help.github.com/send-pull-requests/.
